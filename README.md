@@ -9,7 +9,9 @@ student can put anyone’s proxy?*
 
 ##### Assumptions
 > We have limited computation resources
+> 
 > Using multiple access points( more than 3 ) to entry the attenbance data at different place will distract the students
+> 
 > The person entring the proxy for his friends doesn't have more than one laptop/desktop.
 
 
