@@ -1,5 +1,5 @@
 # Attendace-Management
-This project describes the methods by which we can reduce the number of proxies if utilised with Face recognition
+This project describes methods by which we can reduce the number of proxies if utilised with Face recognition for attendace system.
 
 ### Task
 > *Design an Attendance System for a class by scanning their face and ensure that no
