@@ -28,7 +28,7 @@ Now, Lets introduce some other barries to entry proxies
 3. **Code** : One of the popular method is to introduce a code scanning with such as QR code which are easier to do and attach and genrate random and uniwue code for every student joined with their student ERP system to validate and register student attendance.
 
 The application design will look something like this if some of the above mentioned methods are used together:
-![Attendace System Design](images/attendace_system.svg)
+![Attendace System Design](/images/Attendace_System.png)
 
 I believe these methods implemented alongside with the current face detection + recognition system can introduce a higher barrier to entry a proxy for a student.
 
